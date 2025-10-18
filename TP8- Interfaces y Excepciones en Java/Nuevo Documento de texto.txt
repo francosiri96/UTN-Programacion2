@@ -1,0 +1,5 @@
+Este es el archivo de datos de ejemplo.
+Se utiliza para probar el manejo de excepciones
+como FileNotFoundException y IOException
+en los ejercicios de la Parte 2 del Trabajo Práctico 8.
+Linea 4: Todo ha funcionado correctamente!
